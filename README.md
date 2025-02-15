@@ -21,6 +21,12 @@ And start the development server:
 pnpm dev
 ```
 
+To run all checks:
+
+```
+pnpm check
+```
+
 To build the project:
 
 ```
