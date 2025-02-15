@@ -33,4 +33,4 @@ To build the project:
 pnpm build
 ```
 
-And tha's it! 🚀
+And that's it! 🚀
